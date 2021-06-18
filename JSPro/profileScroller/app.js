@@ -77,4 +77,3 @@ function profileIterator(profile) {
     };
 }
 
-
